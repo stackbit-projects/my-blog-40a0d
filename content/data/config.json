@@ -6,7 +6,7 @@
     "header": {
         "logo_img": "images/BoneOlio Logo.jpg",
         "logo_img_alt": "",
-        "has_nav": false,
+        "has_nav": true,
         "nav_links": [
             {
                 "label": "Home",
